@@ -1,0 +1,43 @@
+# data/flats.yml
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  description: Charming room in Montmartre
+  detailed_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  city: Paris, France
+  wifi: true
+  kitchen: true
+  tv: false
+  accomodates: 5
+  bathrooms: 2
+  bed_type: real bed
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  detailed_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  city: London, UK
+  wifi: false
+  kitchen: true
+  tv: false
+  accomodates: 4
+  bathrooms: 1
+  bed_type: real bed
+anne:
+  owner_name: Anne Blum
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne`s home
+  description: Lovely house
+  detailed_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  city: Brussels, Belgium
+  wifi: true
+  kitchen: false
+  tv: true
+  accomodates: 3
+  bathrooms: 1
+  bed_type: sofa
